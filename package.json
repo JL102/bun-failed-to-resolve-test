@@ -1,0 +1,7 @@
+{
+  "name": "bun-failed-to-resolve-test",
+  "devDependencies": {
+    "bun-types": "^0.5.0"
+  },
+  "type": "module"
+}
